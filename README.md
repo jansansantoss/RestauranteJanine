@@ -37,7 +37,7 @@ Foram desenvolvidos 5 testes na classe `RestauranteTest`, que cobrem:
 
 ## 🎥 Vídeo de Demonstração
 Pode assistir à explicação do código e à demonstração do sistema a funcionar neste link:
-[👉 **https://www.youtube.com/watch?v=lMKm6Zul99c**]
+[👉 **https://youtu.be/huue8NGX5w4**]
 
 ---
 Desenvolvido por **Janine Santos**
